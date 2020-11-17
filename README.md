@@ -16,3 +16,10 @@ Time complexity : O(n)
 
 #MaxPalindromeString
 Time complexity: O(n^3)
+
+#DiagonallyMatrixSort(MXN)
+Time complexity: O((Mxn)^2)
+for collection two times ,later sorting
+
+#MergetwoSortedArray
+Time Complexity : O(n1 + n2)
